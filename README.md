@@ -1,38 +1,34 @@
-# Houno Minp – Personal Repository
+# Houno Minp
 
-Hello, I am Houno Minp, a developer support member focused on blockchain transparency and open-source maintenance.
+**Community Builder & Transparency Enthusiast**
 
-## Role in USI Moonik Token Project
-- **Project**: USI Moonik Token (USI) – an educational BEP-20 token on BNB Smart Chain demonstrating transparency and immutable contract design.
-- **My Responsibility**: Developer support – I provide assistance with technical maintenance, code reviews, and documentation verification on GitHub.
-- **Founder & Owner**: usi moonik (full project responsibility and smart contract deployer).
-- **Note**: This is strictly a non-financial, educational transparency project. No investment claims or promotional activity.
+Hi there! I'm Houno Minp — I love helping blockchain projects communicate clearly, stay honest, and build open communities around real education and on-chain transparency.
 
-## Team Contributions & Personal Profiles
+### A Bit About Me
+I'm focused on making complex blockchain concepts accessible to beginners through clear writing, consistent documentation, and active, non-hype community engagement. Transparency isn't just a buzzword for me — it's the foundation of trust in decentralized systems.
 
-- **usi moonik** (Founder & Maintainer)  
-  Full project responsibility, smart contract deployment, ownership verification, and transparency oversight.  
-  Ownership cryptographically verified: BSCScan Signed Message #15078 → https://bscscan.com/verifySig/15078
+### My Role in USI Moonik Token (USI)
+USI Moonik Token is an intentionally simple, fixed-supply BEP-20 token created exclusively as an educational reference on BNB Smart Chain. It showcases immutable contracts, zero fees, full verifiability — and nothing more. **This is not an investment, security, or profit vehicle in any way.**
 
-- **amob animo** (Lead Developer & Technical Contributor)  
-  Responsible for smart contract code, deployment support, open-source maintenance, and technical documentation.  
-  Personal GitHub: https://github.com/amobanimo/amob  
-  (Contains README detailing role in USI Moonik and personal blockchain education contributions)
+**Key Responsibilities I Handle:**
+- Managing and growing official community channels (Telegram, X, Medium, Bitcointalk, Instagram, Facebook)
+- Writing, editing, and updating all public documentation (whitepaper expansions, READMEs, compliance statements)
+- Creating educational content and announcements that always emphasize non-financial, transparency-focused messaging
+- Monitoring community feedback and ensuring responses align with on-chain facts and project philosophy
+- Coordinating cross-channel consistency so all info matches the verified contract and official sources
 
-- **houno minp** (Developer Support & Documentation Specialist)  
-  Assists with code reviews, GitHub documentation verification, educational content, and community transparency.  
-  Personal GitHub: https://github.com/hounominp/houno  
-  (Contains README detailing support role in USI Moonik and focus on open-source transparency)
+My goal is to keep every interaction open, factual, and helpful for learners — never misleading or promotional.
 
-All team members maintain public profiles for full accountability and compliance with blockchain explorer standards.
-
-## Project Links
+### Important Project Links
 - Official Website: https://usimoonik.com
-- Project GitHub: https://github.com/usimoonik/usimoonik
-- Contract Address: 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef (Verified on BscScan: 2025-12-04)
-- My Contact Email: hounominp@usimoonik.com
+- Main GitHub Repo: https://github.com/usimoonik/usimoonik
+- Contract on BscScan (Verified): https://bscscan.com/address/0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef
+- Contact Me: hounominp@usimoonik.com  
+- X (Twitter): https://x.com/hounominp  
+- Telegram: https://t.me/hounominp
 
-## Other Contributions
-This repository contains personal open-source work and contributions related to blockchain education.
+Everything I do is dedicated to educational transparency and helping people understand blockchain better — zero financial claims or speculation.
 
-All activities are for transparency and learning purposes only.
+Check out some of my personal notes and drafts in this repo. Verify everything independently via BscScan.
+
+Last updated: January 2026
