@@ -1,7 +1,6 @@
 # Houno Minp
 
-**Community Builder & Transparency Enthusiast**
-
+**Community Manager & Marketing Lead**
 
 Hi there! I'm Houno Minp — I love helping blockchain projects communicate clearly, stay honest, and build open communities around real education and on-chain transparency.
 
@@ -17,8 +16,9 @@ USI Moonik Token is an intentionally simple, fixed-supply BEP-20 token created e
 - Creating educational content and announcements that always emphasize non-financial, transparency-focused messaging
 - Monitoring community feedback and ensuring responses align with on-chain facts and project philosophy
 - Coordinating cross-channel consistency so all info matches the verified contract and official sources
+- Handling user feedback to improve transparency and educational resources without any promotional intent
 
-My goal is to keep every interaction open, factual, and helpful for learners — never misleading or promotional.
+As a non-owner contributor, I do NOT own the project, control the smart contract, or manage tokens/supply. All activities are non-financial and provided for public clarity.
 
 ### Important Project Links
 - Official Website: https://usimoonik.com
@@ -26,7 +26,11 @@ My goal is to keep every interaction open, factual, and helpful for learners —
 - Contract on BscScan (Verified): https://bscscan.com/address/0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef
 - Contact Me: hounominp@usimoonik.com  
 - X (Twitter): https://x.com/hounominp  
-- Telegram: https://t.me/hounominp
+- GitHub: https://github.com/hounominp/houno  
+- Telegram: https://t.me/hounominp  
+- Bitcointalk: https://bitcointalk.org/index.php?topic=5572597  
+- Medium: https://medium.com/@hounominp  
+- Instagram: https://www.instagram.com/hounominp/  
 
 Everything I do is dedicated to educational transparency and helping people understand blockchain better — zero financial claims or speculation.
 
