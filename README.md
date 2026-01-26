@@ -5,7 +5,7 @@
 Hi there! I'm Houno Minp — I love helping blockchain projects communicate clearly, stay honest, and build open communities around real education and on-chain transparency.
 
 ### A Bit About Me
-I'm focused on making complex blockchain concepts accessible to beginners through clear writing, consistent documentation, and active, non-hype community engagement. Transparency isn't just a buzzword for me — it's the foundation of trust in decentralized systems.
+I'm focused on making complex blockchain concepts accessible to beginners through clear writing, consistent documentation, and active, non-hype community engagement. Transparency isn't just a buzzword for me -— it's the foundation of trust in decentralized systems.
 
 ### My Role in USI Moonik Token (USI)
 USI Moonik Token is an intentionally simple, fixed-supply BEP-20 token created exclusively as an educational reference on BNB Smart Chain. It showcases immutable contracts, zero fees, full verifiability — and nothing more. **This is not an investment, security, or profit vehicle in any way.**
