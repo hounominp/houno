@@ -2,6 +2,7 @@
 
 **Community Builder & Transparency Enthusiast**
 
+
 Hi there! I'm Houno Minp — I love helping blockchain projects communicate clearly, stay honest, and build open communities around real education and on-chain transparency.
 
 ### A Bit About Me
